@@ -1,0 +1,12 @@
+<changelog>
+	<changes>
+		<version>1.1-53</version>
+		<change>- Fixed label not resizing for long Wi-Fi names.</change>
+		<change>- Added option to show alert when disconnected.</change>
+
+		<version>1.1</version>
+		<change>- Added a Preference Bundle (Settings apply on the fly!)</change>
+		<change>- Added the ability to invert the colors</change>
+		<change>- Now you can Short Hold the message to open to Wi-Fi settings!</change>
+	</changes>
+</changelog>

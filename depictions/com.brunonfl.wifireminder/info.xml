@@ -1,6 +1,6 @@
 <package>
 	<id>com.brunonfl.wifireminder</id>
-	<name>WifiReminder</name>
+	<name>WiFiReminder</name>
 	<version>1.1.2-10</version>
 	<compatibility>
 		<firmware>
@@ -38,8 +38,7 @@
         </screenshot>
     </screenshots>
 	<changelog>
-        <change>v1.1.2-10</change>
-		<change>-Added an option to turn Wi-Fi OFF automatically!</change>
+		<change>- Added an option to turn Wi-Fi OFF automatically!</change>
 	</changelog>
 	<links></links>
 </package>

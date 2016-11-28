@@ -22,7 +22,18 @@
  bundleid = $.QueryString['p'];
 
    var contentBlocks = 	{
-     "#packageVersion" :
+     "#packageName" :
+     {"type":"text","source":"package>name"}
+   ,"#packageHeader" :
+     {"type":"custom"
+       ,"source":"package>name"
+       ,"render":function(element,source){
+         if (navigator.userAgent.search(/Cydia/) == -1) {
+           $(element).show();
+         }
+       }
+     }
+   ,"#packageVersion" :
      {"type":"text","source":"package>version"}
    ,"#compatibilityCheck" :
      {"type":"custom"

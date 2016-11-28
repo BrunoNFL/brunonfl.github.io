@@ -1,0 +1,53 @@
+<package>
+	<id>com.brunonfl.wifireminder</id>
+	<name>WifiReminder</name>
+	<version>1.1.2-10</version>
+	<compatibility>
+		<firmware>
+            <miniOS>8.0</miniOS>
+			<maxiOS>9.3.3</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+        <package>mobilesubstrate</package>
+    </dependencies>
+	<descriptionlist>
+        <description>Compatible with iOS 8 and 9</description>
+        <description> </description>
+		<description>WiFiReminder is a tweak for everyone!</description>
+        <description> </description>
+        <description>Who hasn’t been in a situation where you need to turn off</description>
+        <description>your Wi-Fi connection to either save battery or to quickly</description>
+        <description>switch from a slow Wi-Fi to LTE just to show someone</description>
+        <description>something or to find something quickly?</description>
+        <description> </description>
+        <description>If you ever see yourself in this situation, this is certainly your</description>
+        <description>tweak!</description>
+        <description> </description>
+        <description>WiFiReminder will notify you after a designated amount of</description>
+        <description>time, and give you the ability to not waste mobile data when </description>
+        <description>you could be using your home Wi-Fi!</description>
+        <description>You have to try it out!</description>
+        <description></description>
+        <description>Options to configure in settings.</description>
+	</descriptionlist>
+	<screenshots>
+        <screenshot>
+            <description>Tweak in action</description>
+            <image>1.PNG</image>
+        </screenshot>
+        <screenshot>
+            <description>Settings for the tweak.</description>
+            <image>2.PNG</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+        <change>v1.1.2-10</change>
+		<change>-Added an option to turn Wi-Fi OFF automatically!</change>
+	</changelog>
+	<links></links>
+</package>

@@ -35,8 +35,11 @@
         </screenshot>
     </screenshots>
 	<changelog>
-    <change>- Fixed label not resizing for long Wi-Fi names.</change>
-		<change>- Added option to show alert when disconnected.</change>
+    <change><![CDATA[
+			<strong>v1.1-53</strong> <br/>
+			- Fixed label not resizing for long Wi-Fi names.<br/>
+			- Added option to show alert when disconnected.<br/>
+			- Added the ability to show disconnected and connected alert at the same time.]]></change>
 	</changelog>
 	<links></links>
 </package>

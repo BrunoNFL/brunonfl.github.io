@@ -1,0 +1,41 @@
+<package>
+	<id>com.brunonfl.wijoin</id>
+	<name>WiJoin</name>
+	<version>0.0.1-33</version>
+	<compatibility>
+		<firmware>
+      <miniOS>9.3.3</miniOS>
+			<maxiOS>9.3.3</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+        <package>mobilesubstrate</package>
+    </dependencies>
+	<descriptionlist>
+        <description>Only tested in iOS 9.3.3, but should work in any iOS 9 version.</description>
+        <description><![CDATA[
+					Experimental release, <strong>VERY EARLY BETA<strong><br/>
+					This is a tweak to enhance hotspot features, there is only one feature for now!<br/>
+					This tweak prevents you from connecting to any networks while tethering your connection, even intentionally, I DARE YOU TO TRY AND CONNECT TO A NETWORK. More features planned, and suggestions are welcome. :)<br/>
+					All jokes aside, I look forward to any feedback or suggestions, so please contact me through my e-mail or through reddit in /u/BrunoNFL.<br/><br/>
+					No options to configure from settings.
+					]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+        <screenshot>
+            <description>No screenshots to show yet...</description>
+        </screenshot>
+    </screenshots>
+	<changelog>
+    <change><![CDATA[
+			<strong>v0.0.1-33</strong> <br/>
+			- Initial <strong>BETA</strong> release
+			]]></change>
+	</changelog>
+	<links></links>
+</package>

@@ -2,6 +2,10 @@
 	<changes>
 		<version>Changelog:</version>
 		<change><![CDATA[
+			<strong>v1.1-58</strong> <br/>
+			- Added the ability to change the height of the alert.<strong>(Experimental)</strong>]]></change>
+
+		<change><![CDATA[
 			<strong>v1.1-53</strong> <br/>
 			- Fixed label not resizing for long Wi-Fi names.<br/>
 			- Added option to show alert when disconnected.<br/>

@@ -1,0 +1,38 @@
+<package>
+	<id>com.brunonfl.wijoin</id>
+	<name>WiJoin</name>
+	<version>0.0.1-33</version>
+	<compatibility>
+		<firmware>
+      <miniOS>10.0</miniOS>
+			<maxiOS>10.2</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+        <package>mobilesubstrate</package>
+    </dependencies>
+	<descriptionlist>
+        <description>Intended for use with the Yalu102 and Yalu1011 jailbreaks</description>
+        <description><![CDATA[
+					Simple tool to enable SSH via Wi-Fi in dropbear SSH daemon.<br/>
+					No options to configure from settings.
+					]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+        <screenshot>
+            <description>No screenshots to show</description>
+        </screenshot>
+    </screenshots>
+	<changelog>
+    <change><![CDATA[
+			<strong>v1.0</strong> <br/>
+			Initial release.
+			]]></change>
+	</changelog>
+	<links></links>
+</package>

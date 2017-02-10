@@ -2,7 +2,12 @@
 	<changes>
 		<version>Changelog:</version>
 		<change><![CDATA[
+			<strong>v1.1</strong> <br/>
+			- Fix permission issues some users were having :)]]>
+		</change>
+		<change><![CDATA[
 			<strong>v1.0</strong> <br/>
-			- Initial release]]></change>
+			- Initial release]]>
+		</change>
 	</changes>
 </changelog>

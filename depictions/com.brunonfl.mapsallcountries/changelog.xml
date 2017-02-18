@@ -1,0 +1,9 @@
+<changelog>
+	<changes>
+		<version>Changelog:</version>
+        <change><![CDATA[
+            <strong>v1.0</strong> <br/>
+            - Updated original package to support iOS 6-10]]>
+        </change>
+	</changes>
+</changelog>

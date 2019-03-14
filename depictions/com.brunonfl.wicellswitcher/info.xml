@@ -1,0 +1,38 @@
+<package>
+	<id>com.brunonfl.wicellswitcher</id>
+	<name>WiCellSwitcher</name>
+	<version>0.0.1-7+debug</version>
+	<compatibility>
+		<firmware>
+      <miniOS>7.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+        <package>mobilesubstrate</package>
+    </dependencies>
+	<descriptionlist>
+        <description>Compatible from iOS 7 to iOS 12.1.2.</description>
+        <description><![CDATA[
+					This tweak turns OFF Wi-Fi when you turn ON Cellular Data and turns OFF Cellular Data when you turn ON Wi-Fi in order to save some battery<br/><br/>
+					No options to configure from settings.
+					]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+        <screenshot>
+            <description>No screenshots to show yet...</description>
+        </screenshot>
+    </screenshots>
+	<changelog>
+    <change><![CDATA[
+			<strong>0.0.1-7+debug</strong> <br/>
+			- Initial <strong>BETA</strong> release
+			]]></change>
+	</changelog>
+	<links></links>
+</package>

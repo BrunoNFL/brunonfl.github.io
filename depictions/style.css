@@ -44,3 +44,14 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 p {
     margin: 0 0 10px 10px;
 }
+
+.list-group-item:first-child {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.list-group-item:last-child {
+    margin-bottom: 0;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}

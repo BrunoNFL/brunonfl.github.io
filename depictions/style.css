@@ -35,3 +35,8 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     margin-right: auto;
     margin-left: auto;
 }
+
+.h5, h5 {
+    font-size: 14px;
+	padding-left: 5px;
+}

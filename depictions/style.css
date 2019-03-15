@@ -38,11 +38,26 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 
 .h5, h5 {
     font-size: 14px;
-	padding-left: 5px;
+    padding-left: 5px;
 }
 
 p {
     margin: 0 0 10px 10px;
+}
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid #ddd0;
+    border-right-color: rgba(221, 221, 221, 0);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-left-color: rgba(221, 221, 221, 0);
+    border-left-style: solid;
+    border-left-width: 1px;
 }
 
 .list-group-item:first-child {

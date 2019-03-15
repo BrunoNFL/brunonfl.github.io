@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
             <miniOS>6.0</miniOS>
-			<maxiOS>10.2</maxiOS>
+			<maxiOS>12.1.2</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -16,7 +16,7 @@
         <package>None</package>
     </dependencies>
 	<descriptionlist>
-        <description><strong>Supports iOS 6-10</strong></description>
+        <description><strong>Supports iOS 6-12</strong></description>
         <description><![CDATA[
 					Simple tweak by Rafael Costa made for iOS 6-8 updated by luisflins to iOS 9 and to iOS 10 by me (Bruno Andrade).<br/>
                     The tweak enables turn-by-turn navigation for unsupported countries in Apple Maps.
@@ -31,7 +31,7 @@
 	<changelog>
     <change><![CDATA[
 			<strong>v1.0</strong> <br/>
-			- Updated original package to support iOS 6-10
+			- Updated original package to support iOS 6-12
 			]]></change>
 	</changelog>
 	<links></links>

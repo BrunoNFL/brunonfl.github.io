@@ -61,12 +61,14 @@ p {
 }
 
 .list-group-item:first-child {
+    border-top: 1px solid #ddd0;
     border-top-left-radius: 0px;
     border-top-right-radius: 0px;
 }
 
 .list-group-item:last-child {
     margin-bottom: 0;
+    border-bottom: 1px solid #ddd0;
     border-bottom-right-radius: 0px;
     border-bottom-left-radius: 0px;
 }

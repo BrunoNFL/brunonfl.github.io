@@ -64,8 +64,8 @@ p {
     border-left-style: solid;
     border-left-width: 1px;
     border-bottom: 1px solid #ddd0;
-    -webkit-clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 1px, 28px 1px, 28px 0);
-    clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 1px, 28px 1px, 28px 0);
+    -webkit-clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 1px, 15px 1px, 15px 0)
+    clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 1px, 15px 1px, 15px 0)
 }
 
 .list-group-item:first-child {

@@ -2,6 +2,10 @@
     pointer-events: none;
 }
 
+alist-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, button.list-group-item:hover{
+    background-color: #ddd;
+}
+
 .link-item {
     list-style-type: none;
     padding: 17px 15px;

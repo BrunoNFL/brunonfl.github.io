@@ -75,3 +75,9 @@ p {
     border-bottom-right-radius: 0px;
     border-bottom-left-radius: 0px;
 }
+
+ol, ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+    background-color: white;
+}

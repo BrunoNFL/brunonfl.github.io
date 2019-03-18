@@ -81,8 +81,6 @@ p {
     border-bottom: 1px solid #ddd;
     border-bottom-right-radius: 0px;
     border-bottom-left-radius: 0px;
-    -webkit-clip-path: none;
-    clip-path: none;
 }
 
 ol, ul {

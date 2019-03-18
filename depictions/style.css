@@ -42,7 +42,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 }
 
 p {
-    margin: 0 0 10px 10px;
+    margin: 0 0 0 10px;
 }
 
 .list-group-item {

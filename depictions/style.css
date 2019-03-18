@@ -81,3 +81,7 @@ ol, ul {
     margin-bottom: 10px;
     background-color: white;
 }
+
+body {
+    font-size: 17px;
+}

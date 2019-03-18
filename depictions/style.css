@@ -69,16 +69,20 @@ p {
 }
 
 .list-group-item:first-child {
-    border-top: .5em solid #ddd;
+    border-top: 1px solid #ddd;
     border-top-left-radius: 0px;
     border-top-right-radius: 0px;
+    -webkit-clip-path: none;
+    clip-path: none;
 }
 
 .list-group-item:last-child {
     margin-bottom: 0;
-    border-bottom: .5em solid #ddd;
+    border-bottom: 1px solid #ddd;
     border-bottom-right-radius: 0px;
     border-bottom-left-radius: 0px;
+    -webkit-clip-path: none;
+    clip-path: none;
 }
 
 ol, ul {

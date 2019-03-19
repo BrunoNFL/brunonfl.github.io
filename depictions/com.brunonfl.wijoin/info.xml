@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
             <miniOS>7.0</miniOS>
-			<maxiOS>10.5</maxiOS>
+			<maxiOS>12.5</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -16,7 +16,7 @@
         <package>mobilesubstrate</package>
     </dependencies>
 	<descriptionlist>
-        <description>Compatible with iOS 7 to 10</description>
+        <description>Compatible from iOS 7 to 12</description>
         <description><![CDATA[
 					Simple tweak to display the Wi-Fi network you connected to like in Android.
 					Short Hold the message to open to Wi-Fi settings!<br/><br/>

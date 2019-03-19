@@ -109,6 +109,7 @@ body {
     border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
     border-bottom-left-radius: 0px;
+	margin: 0 0 0px 0px;
 }
 
 .alert-success{
@@ -120,5 +121,5 @@ body {
     border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
     border-bottom-left-radius: 0px;
-
+	margin: 0 0 0px 0px;
 }

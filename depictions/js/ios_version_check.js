@@ -64,7 +64,7 @@ function ios_version_check(minIOS,maxIOS,otherIOS,callBack) {
 		minVersion = parseVersionString(minString),
 		maxVersion = maxString ? parseVersionString(maxString) : null,
 
-		message = VERSION_CHECK_SUPPORTED.replace("%s", osString);
+		message = VERSION_CHECK_SUPPORTED.replace("%s", osString),
 		isBad = false;
 
 	if (compareVersions(minVersion, osVersion) == 1) {

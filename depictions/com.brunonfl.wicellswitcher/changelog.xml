@@ -1,8 +1,14 @@
 <changelog>
 	<changes>
 		<version>Changelog:</version>
+        <change><![CDATA[
+            <strong>0.0.3</strong> <br/>
+            - Added Preference pane<br/>
+            - Added option to react when disconnected from Wi-Fi <strong>(EXPERIMENTAL)</strong>]]>
+        </change>
 		<change><![CDATA[
 			<strong>0.0.1-7+debug</strong> <br/>
-			- Initial <strong>BETA</strong> release]]></change>
-	</changes>
+			- Initial <strong>BETA</strong> release]]>
+        </change>
+    </changes>
 </changelog>

@@ -1,7 +1,7 @@
 <package>
 	<id>com.brunonfl.wicellswitcher</id>
 	<name>WiCellSwitcher</name>
-	<version>0.0.1-7+debug</version>
+	<version>0.0.3</version>
 	<compatibility>
 		<firmware>
       <miniOS>7.0</miniOS>
@@ -30,8 +30,9 @@
     </screenshots>
 	<changelog>
     <change><![CDATA[
-			<strong>0.0.1-7+debug</strong> <br/>
-			- Initial <strong>BETA</strong> release
+            <strong>0.0.3</strong> <br/>
+            - Added Preference pane<br/>
+            - Added option to react when disconnected from Wi-Fi <strong>(EXPERIMENTAL)</strong>]]>
 			]]></change>
 	</changelog>
 	<links></links>

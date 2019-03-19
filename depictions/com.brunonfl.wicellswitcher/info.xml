@@ -19,7 +19,7 @@
         <description>Compatible from iOS 7 to iOS 12.1.2.</description>
         <description><![CDATA[
 					This tweak turns OFF Wi-Fi when you turn ON Cellular Data and turns OFF Cellular Data when you turn ON Wi-Fi in order to save some battery<br/><br/>
-					No options to configure from settings.
+					Configure options from settings.
 					]]>
 		</description>
 	</descriptionlist>

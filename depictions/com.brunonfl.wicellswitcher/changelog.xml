@@ -2,6 +2,11 @@
 	<changes>
 		<version>Changelog:</version>
         <change><![CDATA[
+            <strong>0.0.4</strong> <br/>
+            - Made the behavior more reliable!<br/>
+            ]]>
+        </change>
+        <change><![CDATA[
             <strong>0.0.3</strong> <br/>
             - Added Preference pane<br/>
             - Added option to react when disconnected from Wi-Fi <strong>(EXPERIMENTAL)</strong>]]>

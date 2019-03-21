@@ -1,6 +1,6 @@
 <package>
 	<id>com.brunonfl.wicellswitcher</id>
-	<name>Screenshots</name>
+	<name>WiCellSwitcher</name>
 	<version>0.0.4</version>
 	<compatibility>
 		<firmware>

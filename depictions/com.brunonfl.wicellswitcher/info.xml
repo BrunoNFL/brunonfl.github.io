@@ -24,10 +24,10 @@
 		</description>
 	</descriptionlist>
 	<screenshots>
-        <screenshot>
-            <description>No screenshots to show yet...</description>
-        </screenshot>
-    </screenshots>
+        	<!--<screenshot>
+			<description>No screenshots to show yet...</description>
+        	</screenshot>-->
+	</screenshots>
 	<changelog>
         <change><![CDATA[
                 <strong>0.0.4</strong> <br/>

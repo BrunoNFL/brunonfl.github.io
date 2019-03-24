@@ -30,7 +30,7 @@
 	</screenshots>
 	<changelog>
         <change><![CDATA[
-                <strong>0.0.4</strong> <br/>
+                <strong>0.0.5</strong> <br/>
                 - Stability fixes and fixed a Safemode crash when getting the settings<br/>
                 - Now depends on Cephei, for better settings management<br/>
             ]]>

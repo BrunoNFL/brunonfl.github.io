@@ -2,6 +2,12 @@
 	<changes>
 		<version>Changelog:</version>
         <change><![CDATA[
+            <strong>0.0.5</strong> <br/>
+            - Stability fixes and fixed a Safemode crash when getting the settings<br/>
+            - Now depends on Cephei, for better settings management<br/>
+        ]]>
+        </change>
+        <change><![CDATA[
             <strong>0.0.4</strong> <br/>
             - Made the behavior more reliable!<br/>
             ]]>

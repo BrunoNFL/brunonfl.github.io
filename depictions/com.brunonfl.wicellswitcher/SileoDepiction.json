@@ -1,0 +1,145 @@
+{
+   "minVersion":"0.1",
+   "headerImage":"https://repo-cdn.dynastic.co/97129301119336449.ee6339c740832e0c7c3c85aa196133aa-1000?size=1000",
+   "tintColor":"#7887f7",
+   "tabs":[
+      {
+         "tabname":"Details",
+         "views":[
+            {
+               "title":"iOS Respring animations from any gif you want!",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+            },
+            {
+               "itemCornerRadius":6,
+               "itemSize":"{160, 275.41333333333336}",
+               "screenshots":[
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://repo-cdn.dynastic.co/97132458872406017.a6a7bc15ed0943e5588bbefec9b24c37-750?size=480",
+                     "fullSizeURL":"https://repo.dynastic.co/data/static/version/96349567905169408/97132458872406016"
+                  },
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://repo-cdn.dynastic.co/97132529504485377.3369d4a66786aa94268e878cc653030c-750?size=480",
+                     "fullSizeURL":"https://repo.dynastic.co/data/static/version/96349567905169408/97132529504485376"
+                  }
+               ],
+               "ipad":{
+                  "itemCornerRadius":9,
+                  "itemSize":"{320, 550.8266666666667}",
+                  "screenshots":[
+                     {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://repo-cdn.dynastic.co/97132458872406017.a6a7bc15ed0943e5588bbefec9b24c37-750?size=640",
+                        "fullSizeURL":"https://repo.dynastic.co/data/static/version/96349567905169408/97132458872406016"
+                     },
+                     {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://repo-cdn.dynastic.co/97132529504485377.3369d4a66786aa94268e878cc653030c-750?size=640",
+                        "fullSizeURL":"https://repo.dynastic.co/data/static/version/96349567905169408/97132529504485376"
+                     }
+                  ],
+                  "class":"DepictionScreenshotView"
+               },
+               "class":"DepictionScreenshotsView"
+            },
+            {
+               "markdown":"Set any gif you would like as a respring logo. Convert existing springy packs and movies to gifs. Does not require anemone.",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Known Issues",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "markdown":"* When Converting springy pack or video, phone locks up.\n* Opening preferences may freeze after first installation as gif2ani downloads update. \n* When converting a video or springy pack gif2ani will state saving, then you will need to wait for the confirmation alert.",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Latest Version",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "title":"Version",
+               "text":"2.1",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Released",
+               "text":"2019-3-17",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Price",
+               "text":"Free",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "spacing":12,
+               "class":"DepictionSpacerView"
+            },
+            {
+               "title":"Developer",
+               "text":"MidnightChips",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Contact Support",
+               "action":"depiction-https://repo.dynastic.co/sileo-depiction/96349567687065600/support",
+               "class":"DepictionTableButtonView"
+            },
+            {
+               "spacing":16,
+               "class":"DepictionSpacerView"
+            },
+            {
+               "URL":"https://assets.dynastic.co/brand/img/footer@2x.png",
+               "width":44,
+               "height":27,
+               "alignment":1,
+               "cornerRadius":0,
+               "class":"DepictionImageView"
+            },
+            {
+               "spacing":20,
+               "class":"DepictionSpacerView"
+            }
+         ],
+         "class":"DepictionStackView"
+      },
+      {
+         "tabname":"Changelog",
+         "views":[
+            {
+               "title":"Version 2.1",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {
+               "markdown":"* Added springy pack support\n* Added option to convert videos to gifs\n* New Prefs\n* Set Background color ",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">Released 2019-3-17</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            }
+         ],
+         "class":"DepictionStackView"
+      }
+   ],
+   "class":"DepictionTabView"
+}

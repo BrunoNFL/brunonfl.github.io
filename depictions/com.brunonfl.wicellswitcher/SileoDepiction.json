@@ -1,7 +1,7 @@
 {
    "minVersion":"0.1",
    "headerImage":"https://brunonfl.github.io/depictions/com.brunonfl.wicellswitcher/Images/Banner.png",
-   "tintColor":"#007aff",
+   "tintColor":"#26b4c2",
    "tabs":[
       {
          "tabname":"Details",
@@ -62,7 +62,7 @@
             },
             {
                "title":"Contact Support",
-               "action":"depiction-https://repo.dynastic.co/sileo-depiction/96349567687065600/support",
+               "action":"mailto:brubiluco@globo.com&subject=Sileo%2FAPT%28A%29%3A+WiCellSwitcher",
                "class":"DepictionTableButtonView"
             },
             {

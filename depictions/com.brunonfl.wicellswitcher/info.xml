@@ -1,7 +1,7 @@
 <package>
 	<id>com.brunonfl.wicellswitcher</id>
 	<name>WiCellSwitcher</name>
-	<version>0.0.5</version>
+	<version>0.0.6</version>
 	<compatibility>
 		<firmware>
       <miniOS>7.0</miniOS>
@@ -13,7 +13,7 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-        <package>mobilesubstrate</package>
+        <package>mobilesubstrate, Cephei</package>
     </dependencies>
 	<descriptionlist>
         <description>Compatible from iOS 7 to iOS 12.1.2.</description>
@@ -30,9 +30,8 @@
 	</screenshots>
 	<changelog>
         <change><![CDATA[
-                <strong>0.0.5</strong> <br/>
-                - Stability fixes and fixed a Safemode crash when getting the settings<br/>
-                - Now depends on Cephei, for better settings management<br/>
+                <strong>0.0.6</strong> <br/>
+                - Fixes a bug where CepheiPrefs would be loaded in processes other than Settings. No more Safemode :)
             ]]>
 		</change>
 	</changelog>

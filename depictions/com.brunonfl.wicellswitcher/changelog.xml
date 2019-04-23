@@ -2,6 +2,10 @@
 	<changes>
 		<version>Changelog:</version>
         <change><![CDATA[
+            <strong>0.0.6</strong> <br/>
+            - Fixes a bug where CepheiPrefs would be loaded in processes other than Settings. No more Safemode :)
+        ]]>
+        <change><![CDATA[
             <strong>0.0.5</strong> <br/>
             - Stability fixes and fixed a Safemode crash when getting the settings<br/>
             - Now depends on Cephei, for better settings management<br/>

@@ -52,10 +52,6 @@
                "class":"DepictionTableTextView"
             },
             {
-               "spacing":12,
-               "class":"DepictionSpacerView"
-            },
-            {
                "title":"Developer",
                "text":"Bruno Andrade",
                "class":"DepictionTableTextView"

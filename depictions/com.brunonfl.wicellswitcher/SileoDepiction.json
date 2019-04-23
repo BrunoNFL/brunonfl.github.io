@@ -123,7 +123,7 @@
                "class":"DepictionSubheaderView"
             },
             {
-               "markdown":"* Added Preference pane\n* Added option to react when disconnected from Wi-Fi (EXPERIMENTAL)",
+               "markdown":"* Added Preference pane\n* Added option to react when disconnected from Wi-Fi **(EXPERIMENTAL)**",
                "useSpacing":false,
                "class":"DepictionMarkdownView"
             },
@@ -134,7 +134,7 @@
                "class":"DepictionSubheaderView"
             },
             {
-               "markdown":"* Initial BETA",
+               "markdown":"* Initial **BETA**",
                "useSpacing":false,
                "class":"DepictionMarkdownView"
             }

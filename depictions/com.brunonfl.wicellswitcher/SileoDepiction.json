@@ -8,7 +8,7 @@
          "views":[
             {
                "markdown":"**Switch between Wi-Fi and Cellular the Smart Way!**",
-               "useSpacing":false,
+               "useSpacing":true,
                "useBottomMargin":false,
                "class":"DepictionMarkdownView"
             },

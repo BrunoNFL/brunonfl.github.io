@@ -7,10 +7,10 @@
          "tabname":"Details",
          "views":[
             {
-               "title":"Switch between Wi-Fi and Cellular the Smart Way!",
-               "useBoldText":true,
+               "markdown":"**Switch between Wi-Fi and Cellular the Smart Way!**",
+               "useSpacing":true,
                "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
+               "class":"DepictionMarkdownView"
             },
             {
                "markdown":"This tweak turns OFF Wi-Fi when you turn ON Cellular Data and turns OFF Cellular Data when you turn ON Wi-Fi in order to save some battery\n\nConfigure options from settings.",

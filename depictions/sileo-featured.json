@@ -1,0 +1,13 @@
+{
+    "class": "FeaturedBannersView", 
+    "itemSize": "{263, 148}", 
+    "itemCornerRadius": 10, 
+    "banners": [
+        {
+            "url": "https://brunonfl.github.io/depictions/com.brunonfl.wicellswitcher/Images/Banner.png", 
+            "title": "WiCellSwitcher", 
+            "package": "com.brunonfl.wicellswitcher", 
+            "hideShadow": false
+        }
+    ]
+}

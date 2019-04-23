@@ -8,7 +8,7 @@
          "views":[
             {
                "markdown":"**Switch between Wi-Fi and Cellular the Smart Way!**",
-               "useSpacing":true,
+               "useSpacing":false,
                "useBottomMargin":false,
                "class":"DepictionMarkdownView"
             },
@@ -86,7 +86,7 @@
             {
                "title":"Version 0.0.6",
                "useBoldText":true,
-               "useBottomMargin":true,
+               "useBottomMargin":false,
                "class":"DepictionSubheaderView"
             },
             {
@@ -97,7 +97,7 @@
             {
                "title":"Version 0.0.5",
                "useBoldText":true,
-               "useBottomMargin":true,
+               "useBottomMargin":false,
                "class":"DepictionSubheaderView"
             },
             {
@@ -108,7 +108,7 @@
             {
                "title":"Version 0.0.4",
                "useBoldText":true,
-               "useBottomMargin":true,
+               "useBottomMargin":false,
                "class":"DepictionSubheaderView"
             },
             {
@@ -119,7 +119,7 @@
             {
                "title":"Version 0.0.3",
                "useBoldText":true,
-               "useBottomMargin":true,
+               "useBottomMargin":false,
                "class":"DepictionSubheaderView"
             },
             {
@@ -130,7 +130,7 @@
             {
                "title":"Version 0.0.1-7",
                "useBoldText":true,
-               "useBottomMargin":true,
+               "useBottomMargin":false,
                "class":"DepictionSubheaderView"
             },
             {

@@ -7,7 +7,7 @@
          "tabname":"Details",
          "views":[
             {
-               "title":"iOS Respring animations from any gif you want!",
+               "title":"Switch between Wi-Fi and Cellular the Smart Way!",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -122,19 +122,58 @@
          "tabname":"Changelog",
          "views":[
             {
-               "title":"Version 2.1",
+               "title":"Version 0.0.6",
                "useBoldText":true,
                "useBottomMargin":true,
                "class":"DepictionSubheaderView"
             },
             {
-               "markdown":"* Added springy pack support\n* Added option to convert videos to gifs\n* New Prefs\n* Set Background color ",
+               "markdown":"* Fixes a bug where CepheiPrefs would be loaded in processes other than Settings. No more Safemode :)",
                "useSpacing":false,
                "class":"DepictionMarkdownView"
             },
             {
-               "markdown":"<small style=\"color: #999; margin-top: -8px;\">Released 2019-3-17</small>",
-               "useRawFormat":true,
+               "title":"Version 0.0.5",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {
+               "markdown":"* Stability fixes and fixed a Safemode crash when getting the settings\n* Now depends on Cephei, for better settings management",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "title":"Version 0.0.4",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {
+               "markdown":"* Made the behavior more reliable!",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "title":"Version 0.0.3",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {
+               "markdown":"* Added Preference pane\n* Added option to react when disconnected from Wi-Fi (EXPERIMENTAL)",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "title":"Version 0.0.1-7",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {
+               "markdown":"* Initial BETA",
+               "useSpacing":false,
                "class":"DepictionMarkdownView"
             }
          ],

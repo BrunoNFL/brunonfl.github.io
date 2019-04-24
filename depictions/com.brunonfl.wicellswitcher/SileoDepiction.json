@@ -95,8 +95,7 @@
                "class":"DepictionMarkdownView"
             },
             {
-               "spacing":16,
-               "class":"DepictionSpacerView"
+               "class":"DepictionSeparatorView"
             },
             {
                "title":"Version 0.0.5",
@@ -110,8 +109,7 @@
                "class":"DepictionMarkdownView"
             },
             {
-               "spacing":16,
-               "class":"DepictionSpacerView"
+               "class":"DepictionSeparatorView"
             },
             {
                "title":"Version 0.0.4",
@@ -125,8 +123,7 @@
                "class":"DepictionMarkdownView"
             },
             {
-               "spacing":16,
-               "class":"DepictionSpacerView"
+               "class":"DepictionSeparatorView"
             },
             {
                "title":"Version 0.0.3",
@@ -140,8 +137,7 @@
                "class":"DepictionMarkdownView"
             },
             {
-               "spacing":16,
-               "class":"DepictionSpacerView"
+               "class":"DepictionSeparatorView"
             },
             {
                "title":"Version 0.0.1-7",

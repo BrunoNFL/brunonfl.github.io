@@ -86,12 +86,12 @@
             {
                "title":"Version 0.0.6",
                "useBoldText":true,
-               "useBottomMargin":true,
+               "useBottomMargin":false,
                "class":"DepictionSubheaderView"
             },
             {
                "markdown":"* Fixes a bug where CepheiPrefs would be loaded in processes other than Settings. No more Safemode :)",
-               "useSpacing":false,
+               "useSpacing":true,
                "class":"DepictionMarkdownView"
             },
             {
@@ -100,12 +100,12 @@
             {
                "title":"Version 0.0.5",
                "useBoldText":true,
-               "useBottomMargin":true,
+               "useBottomMargin":false,
                "class":"DepictionSubheaderView"
             },
             {
                "markdown":"* Stability fixes and fixed a Safemode crash when getting the settings\n* Now depends on Cephei, for better settings management",
-               "useSpacing":false,
+               "useSpacing":true,
                "class":"DepictionMarkdownView"
             },
             {
@@ -114,12 +114,12 @@
             {
                "title":"Version 0.0.4",
                "useBoldText":true,
-               "useBottomMargin":true,
+               "useBottomMargin":false,
                "class":"DepictionSubheaderView"
             },
             {
                "markdown":"* Made the behavior more reliable!",
-               "useSpacing":false,
+               "useSpacing":true,
                "class":"DepictionMarkdownView"
             },
             {
@@ -128,12 +128,12 @@
             {
                "title":"Version 0.0.3",
                "useBoldText":true,
-               "useBottomMargin":true,
+               "useBottomMargin":false,
                "class":"DepictionSubheaderView"
             },
             {
                "markdown":"* Added Preference pane\n* Added option to react when disconnected from Wi-Fi **(EXPERIMENTAL)**",
-               "useSpacing":false,
+               "useSpacing":true,
                "class":"DepictionMarkdownView"
             },
             {
@@ -142,12 +142,12 @@
             {
                "title":"Version 0.0.1-7",
                "useBoldText":true,
-               "useBottomMargin":true,
+               "useBottomMargin":false,
                "class":"DepictionSubheaderView"
             },
             {
                "markdown":"* Initial **BETA**",
-               "useSpacing":false,
+               "useSpacing":true,
                "class":"DepictionMarkdownView"
             }
          ],

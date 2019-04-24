@@ -68,7 +68,7 @@
             {
                "URL":"https://raw.githubusercontent.com/BrunoNFL/brunonfl.github.io/master/CydiaIcon.png",
                "width":44,
-               "height":27,
+               "height":44,
                "alignment":1,
                "cornerRadius":0,
                "class":"DepictionImageView"

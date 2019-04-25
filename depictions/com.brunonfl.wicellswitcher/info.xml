@@ -30,8 +30,8 @@
 	</screenshots>
 	<changelog>
         <change><![CDATA[
-                <strong>0.0.6</strong> <br/>
-                - Fixes a bug where CepheiPrefs would be loaded in processes other than Settings. No more Safemode :)
+                <strong>0.0.7</strong> <br/>
+                - Adds an icon to the tweak
             ]]>
 		</change>
 	</changelog>

@@ -1,6 +1,11 @@
 <changelog>
 	<changes>
 		<version>Changelog:</version>
+				<change><![CDATA[
+						<strong>0.0.7</strong> <br/>
+						- Adds an icon to the tweak
+				]]>
+				</change>
         <change><![CDATA[
             <strong>0.0.6</strong> <br/>
             - Fixes a bug where CepheiPrefs would be loaded in processes other than Settings. No more Safemode :)
@@ -22,9 +27,9 @@
             - Added Preference pane<br/>
             - Added option to react when disconnected from Wi-Fi <strong>(EXPERIMENTAL)</strong>]]>
         </change>
-		<change><![CDATA[
-			<strong>0.0.1-7+debug</strong> <br/>
-			- Initial <strong>BETA</strong> release]]>
+				<change><![CDATA[
+						<strong>0.0.1-7+debug</strong> <br/>
+						- Initial <strong>BETA</strong> release]]>
         </change>
     </changes>
 </changelog>

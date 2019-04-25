@@ -38,12 +38,12 @@
             },
             {
                "title":"Version",
-               "text":"0.0.6",
+               "text":"0.0.7",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2019-4-22",
+               "text":"2019-4-24",
                "class":"DepictionTableTextView"
             },
             {
@@ -83,6 +83,20 @@
       {
          "tabname":"Changelog",
          "views":[
+            {
+               "title":"Version 0.0.7",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+            },
+            {
+               "markdown":"* Adds an icon to the tweak",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
             {
                "title":"Version 0.0.6",
                "useBoldText":true,

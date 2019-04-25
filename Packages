@@ -100,16 +100,16 @@ Name: S8Edge
 Depiction: https://brunonfl.github.io/depictions/?p=com.brunonfl.s8edge
 
 Package: com.brunonfl.wicellswitcher
-Version: 0.0.6
+Version: 0.0.7
 Architecture: iphoneos-arm
 Maintainer: Bruno Andrade <brubiluco@globo.com>
-Installed-Size: 152
+Installed-Size: 220
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: debs/com.brunonfl.wicellswitcher_0.0.6_iphoneos-arm.deb
-Size: 5114
-MD5sum: a5347bbfa0d4144380c9ea9953234549
-SHA1: 132feb23ac2929ef13e84da40faf1327418325f8
-SHA256: 14409f209515358d61ea4a28d093c3da3962d60d10ac56d43deb0efd4930ed17
+Filename: debs/com.brunonfl.wicellswitcher_0.0.7_iphoneos-arm.deb
+Size: 59318
+MD5sum: 2ae6c80e1e201c060c339e70149efc44
+SHA1: 286647856af36a559e370d4fb97e76b54e160de8
+SHA256: ed9b3cae5680326fd8b52887342aacf2ec0efc738c3a5dbd92837ae55bd84d09
 Section: Tweaks
 Description: Switch between Wi-Fi and Cellular the Smart Way!
 Author: Bruno Andrade <brubiluco@globo.com>

@@ -1,0 +1,188 @@
+{
+   "minVersion":"0.1",
+   "headerImage":"https://brunonfl.github.io/depictions/com.brunonfl.s8edge/Images/Banner2.png",
+   "tintColor":"#000000",
+   "tabs":[
+      {
+         "tabname":"Details",
+         "views":[
+            {
+               "markdown":"**Switch between Wi-Fi and Cellular the Smart Way!**",
+               "useSpacing":true,
+               "useBottomMargin":false,
+               "class":"DepictionMarkdownView"
+            },
+            {
+                "itemCornerRadius":6,
+                "itemSize":"{160, 275.41333333333336}",
+                "screenshots":[
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/1.jpg",
+                        "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/1.jpg"
+                    },
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/2.jpg",
+                        "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/2.jpg"
+                    },
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/3.jpg",
+                        "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/3.jpg"
+                    }
+                ],
+                "ipad":{
+                    "itemCornerRadius":9,
+                    "itemSize":"{320, 550.8266666666667}",
+                    "screenshots":[
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/1.jpg",
+                            "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/1.jpg"
+                        },
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/2.jpg",
+                            "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/2.jpg"
+                        },
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/3.jpg",
+                            "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/3.jpg"
+                        }
+                    ],
+                    "class":"DepictionScreenshotView"
+                },
+                "class":"DepictionScreenshotsView"
+            },
+            {
+               "markdown":"This tweak turns OFF Wi-Fi when you turn ON Cellular Data and turns OFF Cellular Data when you turn ON Wi-Fi in order to save some battery\n\nConfigure options from settings.",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Known Issues",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "markdown":"* No known issues!",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Latest Version",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "title":"Version",
+               "text":"0.0.7",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Released",
+               "text":"2017-6-15",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Price",
+               "text":"Free",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Developer",
+               "text":"Bruno Andrade",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Contact Support",
+               "action":"mailto:brubiluco@globo.com?subject=Sileo%2FAPT(M)%3A%20S8Edge",
+               "class":"DepictionTableButtonView"
+            },
+            {
+               "spacing":16,
+               "class":"DepictionSpacerView"
+            },
+            {
+               "URL":"https://raw.githubusercontent.com/BrunoNFL/brunonfl.github.io/master/CydiaIcon.png",
+               "width":44,
+               "height":44,
+               "alignment":1,
+               "cornerRadius":0,
+               "class":"DepictionImageView"
+            },
+            {
+               "spacing":20,
+               "class":"DepictionSpacerView"
+            }
+         ],
+         "class":"DepictionStackView"
+      },
+      {
+         "tabname":"Changelog",
+         "views":[
+            {
+               "title":"Version 1.1",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+            },
+            {
+               "markdown":"* Added an option to change the colors to white (For those with white phones)\n* Fixed firmware dependency issue, now it should install in any iOS from 8 to 10.",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Version 1.0",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+            },
+            {
+               "markdown":"* Initial **PUBLIC** release",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Version v0.0.1-33",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+            },
+            {
+               "markdown":"* Added rounded screen corners (preference bundle with corner radius coming on next update!)",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Version v0.0.1-10",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+            },
+            {
+               "markdown":"* Initial **BETA**",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            }
+         ],
+         "class":"DepictionStackView"
+      }
+   ],
+   "class":"DepictionTabView"
+}

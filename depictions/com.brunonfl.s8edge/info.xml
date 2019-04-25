@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
       <miniOS>8.0</miniOS>
-			<maxiOS>10.2</maxiOS>
+			<maxiOS>12</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -16,7 +16,7 @@
         <package>None</package>
     </dependencies>
 	<descriptionlist>
-        <description><strong>Supports iOS 8-10</strong></description>
+        <description><strong>Supports iOS 8-12</strong></description>
         <description><![CDATA[
 					Simple tweak requested on reddit by the user /u/Dragos_01 that's supposed to simulate the rounded Corners and Edges of the new Samsung Galaxy S8.<br/>
           This is a purely cosmetic tweak that doesn't add or interfere with any functionality of your phone, if it does please contact me.

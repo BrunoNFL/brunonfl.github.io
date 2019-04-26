@@ -7,7 +7,7 @@
          "tabname":"Details",
          "views":[
             {
-               "markdown":"**Switch between Wi-Fi and Cellular the Smart Way!**",
+               "markdown":"**That unique feeling...**",
                "useSpacing":true,
                "useBottomMargin":false,
                "class":"DepictionMarkdownView"
@@ -57,7 +57,7 @@
                 "class":"DepictionScreenshotsView"
             },
             {
-               "markdown":"This tweak turns OFF Wi-Fi when you turn ON Cellular Data and turns OFF Cellular Data when you turn ON Wi-Fi in order to save some battery\n\nConfigure options from settings.",
+                "markdown":"**Compatible with iOS 8-12**S8Edge is a tweak for those who want to have that Galaxy S8 Infinity display feel.\n\nIt adds a beautiful gradient overlay to the edges of the display and also rounds the corners while still mantaining the iOS feel we certainly enjoy.\n\nConfigure options from Settings.",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
             },
@@ -82,7 +82,7 @@
             },
             {
                "title":"Version",
-               "text":"0.0.7",
+               "text":"1.1",
                "class":"DepictionTableTextView"
             },
             {

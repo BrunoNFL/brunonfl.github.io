@@ -18,18 +18,18 @@
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/1.jpg",
-                        "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/1.jpg"
+                        "url":"https://brunonfl.github.io/depictions/com.brunonfl.s8edge/Screenshots/1.jpg",
+                        "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.s8edge/Screenshots/1.jpg"
                     },
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/2.jpg",
-                        "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/2.jpg"
+                        "url":"https://brunonfl.github.io/depictions/com.brunonfl.s8edge/Screenshots/2.jpg",
+                        "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.s8edge/Screenshots/2.jpg"
                     },
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/3.jpg",
-                        "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/3.jpg"
+                        "url":"https://brunonfl.github.io/depictions/com.brunonfl.s8edge/Screenshots/3.jpg",
+                        "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.s8edge/Screenshots/3.jpg"
                     }
                 ],
                 "ipad":{
@@ -38,18 +38,18 @@
                     "screenshots":[
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/1.jpg",
-                            "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/1.jpg"
+                            "url":"https://brunonfl.github.io/depictions/com.brunonfl.s8edge/Screenshots/1.jpg",
+                            "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.s8edge/Screenshots/1.jpg"
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/2.jpg",
-                            "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/2.jpg"
+                            "url":"https://brunonfl.github.io/depictions/com.brunonfl.s8edge/Screenshots/2.jpg",
+                            "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.s8edge/Screenshots/2.jpg"
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/3.jpg",
-                            "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Screenshots/3.jpg"
+                            "url":"https://brunonfl.github.io/depictions/com.brunonfl.s8edge/Screenshots/3.jpg",
+                            "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.s8edge/Screenshots/3.jpg"
                         }
                     ],
                     "class":"DepictionScreenshotView"

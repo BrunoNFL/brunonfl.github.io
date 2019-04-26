@@ -57,7 +57,7 @@
                 "class":"DepictionScreenshotsView"
             },
             {
-                "markdown":"**Compatible with iOS 8-12**S8Edge is a tweak for those who want to have that Galaxy S8 Infinity display feel.\n\nIt adds a beautiful gradient overlay to the edges of the display and also rounds the corners while still mantaining the iOS feel we certainly enjoy.\n\nConfigure options from Settings.",
+                "markdown":"**Compatible with iOS 8-12**\n\nS8Edge is a tweak for those who want to have that Galaxy S8 Infinity display feel.\n\nIt adds a beautiful gradient overlay to the edges of the display and also rounds the corners while still mantaining the iOS feel we certainly enjoy.\n\nConfigure options from Settings.",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
             },

@@ -93,18 +93,18 @@ SileoDepiction: https://brunonfl.github.io/depictions/com.brunonfl.mapsallcountr
 Icon: https://brunonfl.github.io/depictions/com.brunonfl.mapsallcountries/icon@3x.png
 
 Package: com.brunonfl.s8edge
-Version: 0.0.1-33+debug
+Version: 1.1-3+debug
 Architecture: iphoneos-arm
 Maintainer: Bruno Andrade <brubiluco@globo.com>
-Installed-Size: 140
-Depends: mobilesubstrate
-Filename: debs//com.brunonfl.s8edge_0.0.1-33+debug_iphoneos-arm.deb
-Size: 9412
-MD5sum: 68c297bac40c23b01ac67377075ba502
-SHA1: 086173ac549a5d098c9f0008889c2b286bf22619
-SHA256: 36d780598d1b7cf817275cfaa0e674fcdc69c18fb63e2296884ac3c192fc902b
+Installed-Size: 1052
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: debs/com.brunonfl.s8edge_1.1-3+debug_iphoneos-arm.deb
+Size: 272188
+MD5sum: d8663c371fa55c064ba52d3641ae9b8f
+SHA1: 4837aa7fa912e7c7c2ef9c2887400fbc5b80a38e
+SHA256: bc1748c32ddc51b4afecfc646408f707137e67c5d22820da5c609aed58ae00c4
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Brings Galaxy S8 Infinity to iOS
 Author: Bruno Andrade <brubiluco@globo.com>
 Name: S8Edge
 Depiction: https://brunonfl.github.io/depictions/?p=com.brunonfl.s8edge

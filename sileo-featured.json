@@ -8,6 +8,12 @@
             "title": "WiCellSwitcher",
             "package": "com.brunonfl.wicellswitcher", 
             "hideShadow": false
+        },
+        {
+            "url": "https://brunonfl.github.io/depictions/com.brunonfl.s8edge/Images/Banner.png",
+            "title": "S8Edge",
+            "package": "com.brunonfl.s8edge",
+            "hideShadow": false
         }
     ]
 }

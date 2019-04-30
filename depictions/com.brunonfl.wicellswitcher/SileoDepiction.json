@@ -18,8 +18,8 @@
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://brunonfl.github.io/depictions/com.brunonfl.wicellswitcher/Screenshots/1.jpg",
-                        "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.wicellswitcher/Screenshots/1.jpg"
+                        "url":"https://brunonfl.github.io/depictions/com.brunonfl.wicellswitcher/Screenshots/1.png",
+                        "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.wicellswitcher/Screenshots/1.png"
                     }
                 ],
                 "ipad":{
@@ -28,8 +28,8 @@
                     "screenshots":[
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://brunonfl.github.io/depictions/com.brunonfl.wicellswitcher/Screenshots/1.jpg",
-                            "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.wicellswitcher/Screenshots/1.jpg"
+                            "url":"https://brunonfl.github.io/depictions/com.brunonfl.wicellswitcher/Screenshots/1.png",
+                            "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.wicellswitcher/Screenshots/1.png"
                         }
                     ],
                     "class":"DepictionScreenshotView"

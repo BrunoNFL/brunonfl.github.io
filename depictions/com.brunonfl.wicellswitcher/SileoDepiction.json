@@ -13,7 +13,27 @@
                "class":"DepictionMarkdownView"
             },
             {
-               "markdown":"This tweak turns OFF Wi-Fi when you turn ON Cellular Data and turns OFF Cellular Data when you turn ON Wi-Fi in order to save some battery\n\nConfigure options from settings.",
+                "itemCornerRadius":6,
+                "itemSize":"{160, 275.41333333333336}",
+                "screenshots":[
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://brunonfl.github.io/depictions/com.brunonfl.wicellswitcher/Screenshots/1.jpg",
+                        "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.s8edge/Screenshots/1.jpg"
+                    }
+            }
+            "ipad":{
+                "itemCornerRadius":9,
+                "itemSize":"{320, 550.8266666666667}",
+                "screenshots":[
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://brunonfl.github.io/depictions/com.brunonfl.wicellswitcher/Screenshots/1.jpg",
+                        "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.wicellswitcher/Screenshots/1.jpg"
+                    }
+            }
+            {
+               "markdown":"This is a great tweak for those looking to save some battery or even Data!\nIt is always a pain, having to switch OFF cellular data when connected to Wi-Fi when low on battery, or even to switch it back ON after you leave Wi-Fi coverage.\n\nIf you ever find yourself in this situation, WiCellSwitcher is the tweak for you!\n\nConfigure options from settings.",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
             },
@@ -38,12 +58,12 @@
             },
             {
                "title":"Version",
-               "text":"0.0.7",
+               "text":"1.0",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2019-4-24",
+               "text":"2019-4-30",
                "class":"DepictionTableTextView"
             },
             {
@@ -83,6 +103,20 @@
       {
          "tabname":"Changelog",
          "views":[
+            {
+                "title":"Version 1.0",
+                "useBoldText":true,
+                "useBottomMargin":false,
+                "class":"DepictionSubheaderView"
+            },
+            {
+                "markdown":"* First **PUBLIC** release",
+                "useSpacing":true,
+                "class":"DepictionMarkdownView"
+            },
+            {
+                "class":"DepictionSeparatorView"
+            },
             {
                "title":"Version 0.0.7",
                "useBoldText":true,

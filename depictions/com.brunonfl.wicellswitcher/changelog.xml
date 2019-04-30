@@ -1,6 +1,11 @@
 <changelog>
 	<changes>
 		<version>Changelog:</version>
+                <change><![CDATA[
+                    <strong>0.0.7</strong> <br/>
+                    - First <strong>PUBLIC</strong> Release
+                ]]>
+                </change>
 				<change><![CDATA[
 						<strong>0.0.7</strong> <br/>
 						- Adds an icon to the tweak

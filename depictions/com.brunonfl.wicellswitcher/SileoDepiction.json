@@ -108,6 +108,20 @@
          "tabname":"Changelog",
          "views":[
             {
+                "title":"Version 1.1",
+                "useBoldText":true,
+                "useBottomMargin":false,
+                "class":"DepictionSubheaderView"
+            },
+            {
+                "markdown":"* Allow install on iOS 9 and later!",
+                "useSpacing":true,
+                "class":"DepictionMarkdownView"
+            },
+            {
+                "class":"DepictionSeparatorView"
+            },
+            {
                 "title":"Version 1.0",
                 "useBoldText":true,
                 "useBottomMargin":false,

@@ -62,12 +62,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0",
+               "text":"1.1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2019-4-30",
+               "text":"2019-5-3",
                "class":"DepictionTableTextView"
             },
             {

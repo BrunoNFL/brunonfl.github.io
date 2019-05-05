@@ -1,17 +1,11 @@
 {
    "minVersion":"0.1",
-   "headerImage":"https://brunonfl.github.io/depictions/com.brunonfl.wicellswitcher/Images/Banner2.png",
+   "headerImage":"",
    "tintColor":"#26b4c2",
    "tabs":[
       {
          "tabname":"Details",
          "views":[
-            {
-               "markdown":"**Switch between Wi-Fi and Cellular the Smart Way!**",
-               "useSpacing":true,
-               "useBottomMargin":false,
-               "class":"DepictionMarkdownView"
-            },
             {
                 "markdown":"**This version was compiled to work from iOS 9 - 12 (including A12 devices)**\n\nI DID NOT CREATE THIS PACKAGE, CREDITS GOES TO THE ORIGINAL DEVELOPER KYLE HOWELS. IF YOU NEED SUPPORT FOR THIS VERSION, CONTACT ME ON REDDIT /u/BrunoNFL.\n\n Select text and move the cursor using gestures on the keyboard.\n\n Swipe anywhere to move the cursor. Swipe from the shift (or delete) keys to select text.\n\nThere is a pro version available which adds settings to allow you to configure it's behaviour.",
                "useSpacing":true,

@@ -1,0 +1,10 @@
+<changelog>
+	<changes>
+		<version>Changelog:</version>
+                <change><![CDATA[
+                    <strong>1.5.3</strong> <br/>
+                    - Compiled to work with A12 (arm64e) devices!
+                ]]>
+                </change>
+    </changes>
+</changelog>

@@ -19,7 +19,7 @@
                "class":"DepictionHeaderView"
             },
             {
-               "markdown":"* No known issues!",
+               "markdown":"* Copy/Paste action menu stays open after invoking it.",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
             },
@@ -78,13 +78,13 @@
          "tabname":"Changelog",
          "views":[
              {
-                 "title":"Version 1.5.3",
+                 "title":"Version 1.5.4",
                  "useBoldText":true,
                  "useBottomMargin":false,
                  "class":"DepictionSubheaderView"
              },
              {
-                 "markdown":"* - Merged the changes from 'SwipeSelectionDelSoundFix' to fix the delete sound!\n\nCredits:\nhttps://github.com/GaryniL/SwipeSelectionDeleteSoundFix",
+                 "markdown":"* Merged the changes from **SwipeSelectionDelSoundFix** to fix the delete sound!\n\nCredits:\n\nhttps://github.com/GaryniL/SwipeSelectionDeleteSoundFix",
                  "useSpacing":true,
                  "class":"DepictionMarkdownView"
              },

@@ -36,10 +36,8 @@
 	</screenshots>
 	<changelog>
         <change><![CDATA[
-                <strong>1.5.4</strong> <br/>
-                - Merged the changes from "SwipeSelectionDelSoundFix" to fix the delete sound!<br/><br/>
-                Credits:<br/>
-                https://github.com/GaryniL/SwipeSelectionDeleteSoundFix
+                <strong>1.5.5</strong> <br/>
+                - Added option to disable the delete sound (As per requests)
             ]]>
 		</change>
 	</changelog>

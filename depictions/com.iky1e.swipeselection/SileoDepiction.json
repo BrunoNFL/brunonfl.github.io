@@ -32,12 +32,12 @@
             },
             {
                "title":"Version",
-               "text":"1.5.4",
+               "text":"1.5.5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2019-5-6",
+               "text":"2019-5-19",
                "class":"DepictionTableTextView"
             },
             {
@@ -77,6 +77,20 @@
       {
          "tabname":"Changelog",
          "views":[
+             {
+                 "title":"Version 1.5.5",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Added option to disable the delete sound (As per requests)",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+             {
+                 "class":"DepictionSeparatorView"
+             },
              {
                  "title":"Version 1.5.4",
                  "useBoldText":true,

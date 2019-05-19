@@ -69,7 +69,7 @@
                "class":"DepictionHeaderView"
             },
             {
-               "markdown":"* This build currently breaks pre-iOS 9 devices from installing and using the tweak.\n*The Respring button in the settings is not working in this version.",
+               "markdown":"* This build currently breaks pre-iOS 9 devices from installing and using the tweak. \n* The Respring button in the settings is not working in this version.",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
             },

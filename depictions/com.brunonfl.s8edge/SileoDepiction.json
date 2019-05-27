@@ -69,7 +69,7 @@
                "class":"DepictionHeaderView"
             },
             {
-               "markdown":"* This build currently breaks pre-iOS 9 devices from installing and using the tweak. \n* The Respring button in the settings is not working in this version.",
+               "markdown":"* This build currently breaks pre-iOS 9 devices from installing and using the tweak.",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
             },
@@ -82,12 +82,12 @@
             },
             {
                "title":"Version",
-               "text":"1.2",
+               "text":"1.2.1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2019-5-7",
+               "text":"2019-5-26",
                "class":"DepictionTableTextView"
             },
             {
@@ -127,6 +127,20 @@
       {
          "tabname":"Changelog",
          "views":[
+             {
+                 "title":"Version 1.2.1",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Fixed the respring button in the settings.",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+             {
+                 "class":"DepictionSeparatorView"
+             },
              {
                 "title":"Version 1.2",
                 "useBoldText":true,

@@ -2,6 +2,10 @@
 	<changes>
 		<version>Changelog:</version>
         <change><![CDATA[
+            <strong>v1.1</strong> <br/>
+            - Updated for A12]]>
+        </change>
+        <change><![CDATA[
             <strong>v1.0</strong> <br/>
             - Updated original package to support iOS 6-12]]>
         </change>

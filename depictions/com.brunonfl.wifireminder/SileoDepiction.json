@@ -53,7 +53,7 @@
                "class":"DepictionHeaderView"
             },
             {
-               "markdown":"* This build currently breaks pre-iOS 9 devices from installing and using the tweak.\n\n* The 'Select New Network' option only works with the phone unlocked for now",
+               "markdown":"* This build currently breaks pre-iOS 9 devices from installing and using the tweak.\n* The 'Select New Network' option only works with the phone unlocked for now",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
             },
@@ -118,7 +118,7 @@
                  "class":"DepictionSubheaderView"
              },
              {
-                 "markdown":"* Completely **Rewritten for iOS 12 and earlier** \n\n* Features are the same, but the implementation is much cleaner!",
+                 "markdown":"* Completely **Rewritten for iOS 12 and earlier** \n* Features are the same, but the implementation is much cleaner!",
                  "useSpacing":true,
                  "class":"DepictionMarkdownView"
              },

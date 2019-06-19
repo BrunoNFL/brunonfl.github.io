@@ -12,13 +12,13 @@
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://brunonfl.github.io/depictions/com.brunonfl.wifireminder/Screenshots/1.PNG",
-                        "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.wifireminder/Screenshots/1.PNG"
+                        "url":"https://brunonfl.github.io/depictions/com.brunonfl.wifireminder/screenshots/1.PNG",
+                        "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.wifireminder/screenshots/1.PNG"
                     },
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://brunonfl.github.io/depictions/com.brunonfl.wifireminder/Screenshots/2.PNG",
-                        "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.wifireminder/Screenshots/2.PNG"
+                        "url":"https://brunonfl.github.io/depictions/com.brunonfl.wifireminder/screenshots/2.PNG",
+                        "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.wifireminder/screenshots/2.PNG"
                     }
                 ],
                 "ipad":{
@@ -27,13 +27,13 @@
                     "screenshots":[
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://brunonfl.github.io/depictions/com.brunonfl.wifireminder/Screenshots/1.PNG",
-                            "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.wifireminder/Screenshots/1.PNG"
+                            "url":"https://brunonfl.github.io/depictions/com.brunonfl.wifireminder/screenshots/1.PNG",
+                            "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.wifireminder/screenshots/1.PNG"
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://brunonfl.github.io/depictions/com.brunonfl.wifireminder/Screenshots/2.PNG",
-                            "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.wifireminder/Screenshots/2.PNG"
+                            "url":"https://brunonfl.github.io/depictions/com.brunonfl.wifireminder/screenshots/2.PNG",
+                            "fullSizeURL":"https://brunonfl.github.io/depictions/com.brunonfl.wifireminder/screenshots/2.PNG"
                         }
                     ],
                     "class":"DepictionScreenshotView"

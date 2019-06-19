@@ -112,6 +112,17 @@
          "tabname":"Changelog",
          "views":[
              {
+                 "title":"Version 1.5~beta2",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Fixed some bugs.",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+             {
                  "title":"Version 1.5~beta1",
                  "useBoldText":true,
                  "useBottomMargin":false,
